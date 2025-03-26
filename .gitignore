@@ -1,0 +1,12 @@
+# Ignore VS Code settings and workspace-specific files
+.vscode/
+*.code-workspace
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+my_venv/
+.env
